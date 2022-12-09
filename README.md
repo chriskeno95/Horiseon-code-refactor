@@ -14,15 +14,9 @@ I have also learned a better way to consolidate css to improve its readability a
 
 There is no need to install anything for this project as it can be viewed [here](https://chriskeno95.github.io/Horiseon-code-refactor/)
 
-## Usage
+Here is a screenshot of the webpage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/Horiseon-code-refactor_.png)
-    ```
+![screenshot of my Horiseon webpage](./assets/images/Horiseon-code-refactor_.png)
 
 
 ## License
