@@ -1,5 +1,5 @@
 # module-1-challenge
-# <Horiseon code refactor>
+# Horiseon code refactor
 
 ## Description
 I have refactored the code for the Horiseon web page to improve the HTML semantics and to provide a more logical structure to its code to improve its SEO and its accessability for the web.
