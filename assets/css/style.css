@@ -7,7 +7,8 @@
 body {
     background-color: #d9dcd6;
 }
-
+/*i removed the header class selector and replaced it with 
+a direct tag selector for the header section*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -40,7 +41,8 @@ h1 {
 h1 .seo {
     color: #d9dcd6;
 }
-
+/*i have renamed the hero id to hero image just to make
+ it more obvious to what it was selecting*/
 #hero-img {
     height: 800px;
     width: 100%;
@@ -58,7 +60,8 @@ a {
 p {
     font-size: 16px;
 }
-
+/*i have replaced the content class with a main tag to 
+reflect the main information on the website*/
 main {
     width: 75%;
     display: inline-block;
@@ -75,7 +78,8 @@ main {
     float: right;
     margin-left: 25px;
 }
-
+/* i have consolidated repetitive css code into a single 'section
+ design' class to make the css easier to read, remove unnessarialy long class selector names and make it more efficient*/
 .section-design{
     margin-bottom: 20px;
     padding: 50px;
@@ -95,7 +99,7 @@ main {
 
 }
 
-
+/*i have consolidate the pages h3 and image tags into article tags to remove unnecessary repetition */
 article {
     margin-bottom: 32px;
     color: #ffffff;
