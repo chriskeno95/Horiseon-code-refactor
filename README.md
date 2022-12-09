@@ -12,7 +12,7 @@ I have also learned a better way to consolidate css to improve its readability a
 
 ## Installation
 
-There is no need to install anything for this project as it can be viewed [here]
+There is no need to install anything for this project as it can be viewed [here](https://chriskeno95.github.io/Horiseon-code-refactor/)
 
 ## Usage
 
