@@ -38,7 +38,7 @@ h1 {
     font-size: 48px;
 }
 
-h1 .seo {
+em {font-style: normal;
     color: #d9dcd6;
 }
 /*i have renamed the hero id to hero image just to make
